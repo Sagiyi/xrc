@@ -1,0 +1,41 @@
+id: 0-61.0.r61/0
+type: dir
+count: 0
+cpath: /thesis.delivery.test.aspectj.simplestexample
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 18
+dir 0-56.0.r60/837
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 16
+dir 0-61.0.r61/0
+END
+ENDREP
+id: 0.0.r61/364
+type: dir
+pred: 0.0.r60/1191
+count: 61
+text: 61 104 247 247 d376f87de4d5d8e104cd54869267977b
+cpath: /
+copyroot: 0 /
+
+_0.0.t60-24 add-dir false false /thesis.delivery.test.aspectj.simplestexample
+
+
+364 497

@@ -1,0 +1,57 @@
+id: 0-222.0.r222/0
+type: dir
+count: 0
+cpath: /AJHotDraw
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 18
+dir 0-222.0.r222/0
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 14
+accountexample
+V 21
+dir 0-218.0.r221/1747
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 21
+dir 0-61.0.r200/10878
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+END
+ENDREP
+id: 0.0.r222/552
+type: dir
+pred: 0.0.r221/2349
+count: 222
+text: 222 71 468 468 32209d9da4f05fb2ac4cff846aca78fd
+cpath: /
+copyroot: 0 /
+
+_0.0.t221-7i add-dir false false /AJHotDraw
+
+
+552 688

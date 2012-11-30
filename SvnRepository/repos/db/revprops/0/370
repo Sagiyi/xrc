@@ -1,0 +1,15 @@
+K 7
+svn:log
+V 107
+if no source change -> do nothing.
+draft for identifying build failure.
+remove listener at end of his work.
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2011-09-10T03:17:41.562000Z
+END

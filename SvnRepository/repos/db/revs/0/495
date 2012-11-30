@@ -1,0 +1,211 @@
+id: j-476.0-484.r495/0
+type: file
+pred: j-476.0-484.r494/527
+count: 5
+text: 476 6502 458 441 7fa4e652b43eee017015aaa2b9200880 9355509c6ffde3cf7fa847876eac2fdfb75d85ee 494-fa/_6
+props: 494 88 426 426 8cf71d8a00ba5734c690249faf6a8493
+cpath: /XRC/trunk/bankapplication_v1/src/bankexample/Account.java
+copyroot: 484 /XRC/trunk/bankapplication_v1
+
+PLAIN
+K 12
+Account.java
+V 23
+file j-476.0-484.r495/0
+K 9
+Bank.java
+V 26
+file l-476.0-484.r493/2060
+K 14
+BlackList.java
+V 22
+file m-476.0.r476/9983
+K 18
+BlackListAdvice.aj
+V 25
+file n-476.0-484.r493/439
+K 22
+LimitedUserTester.java
+V 26
+file o-476.0-484.r493/2406
+END
+ENDREP
+id: h-476.0-484.r495/616
+type: dir
+pred: h-476.0-484.r494/1144
+count: 5
+text: 495 343 260 260 9feab456f8f099b1aa259b168ed67b47
+cpath: /XRC/trunk/bankapplication_v1/src/bankexample
+copyroot: 484 /XRC/trunk/bankapplication_v1
+
+PLAIN
+K 11
+bankexample
+V 24
+dir h-476.0-484.r495/616
+END
+ENDREP
+id: g-476.0-484.r495/905
+type: dir
+pred: g-476.0-484.r494/1435
+count: 5
+text: 495 841 51 51 b23dc5730c8612768e7bc2a97eaf0619
+cpath: /XRC/trunk/bankapplication_v1/src
+copyroot: 484 /XRC/trunk/bankapplication_v1
+
+PLAIN
+K 10
+.classpath
+V 23
+file 1-476.0.r476/14290
+K 8
+.project
+V 23
+file 3-476.0.r476/13984
+K 9
+.settings
+V 21
+dir 4-476.0.r476/9123
+K 3
+XRC
+V 20
+dir 1-482.0.r482/399
+K 3
+bin
+V 22
+dir 7-476.0.r476/13789
+K 3
+src
+V 24
+dir g-476.0-484.r495/905
+END
+ENDREP
+id: 0-475.0-484.r495/1369
+type: dir
+pred: 0-475.0-484.r494/1902
+count: 8
+text: 495 1116 240 240 4813b05a9cf230a94c24bf750519a1e4
+cpath: /XRC/trunk/bankapplication_v1
+copyroot: 484 /XRC/trunk/bankapplication_v1
+
+PLAIN
+K 18
+bankapplication_v1
+V 25
+dir 0-475.0-484.r495/1369
+K 18
+bankapplication_v2
+V 22
+dir 0-480.0-485.r485/0
+K 9
+testsuite
+V 22
+dir 0-486.0-488.r488/0
+END
+ENDREP
+id: 5-483.0.r495/1746
+type: dir
+pred: 5-483.0.r494/2279
+count: 8
+text: 495 1580 153 153 36a0a6a3796e158819bca53afb68c4e6
+cpath: /XRC/trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 2-483.0.r483/0
+K 4
+tags
+V 20
+dir 4-483.0.r490/312
+K 5
+trunk
+V 21
+dir 5-483.0.r495/1746
+END
+ENDREP
+id: 0-483.0.r495/2026
+type: dir
+pred: 0-483.0.r494/2559
+count: 10
+text: 495 1900 113 113 f37643f073c9950005017b645cb1524f
+cpath: /XRC
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 22
+dir 0-222.0.r407/10012
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+XRC
+V 21
+dir 0-483.0.r495/2026
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 17
+accountexample_v1
+V 21
+dir 0-408.0.r465/3219
+K 17
+diffengineexample
+V 21
+dir 0-441.0.r474/3862
+K 18
+markertypesexample
+V 21
+dir 0-311.0.r321/5741
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 20
+dir 0-61.0.r333/6114
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 23
+dir 0-309.0.r403/462027
+K 12
+xrctestsuite
+V 21
+dir 0-334.0.r432/3517
+END
+ENDREP
+id: 0.0.r495/2950
+type: dir
+pred: 0.0.r494/3482
+count: 495
+text: 495 2175 762 762 9bdc93f7f75b7bc9ce1c75bbdbea3531
+cpath: /
+copyroot: 0 /
+
+j-476.0-484.t494-fa modify-file true false /XRC/trunk/bankapplication_v1/src/bankexample/Account.java
+
+
+2950 3089

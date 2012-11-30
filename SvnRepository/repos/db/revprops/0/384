@@ -1,0 +1,14 @@
+K 7
+svn:log
+V 137
+new markers for warning and error advice, since the original cannot display with highlight
+add decorated compare support  to aj extension
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2011-09-10T03:35:52.968000Z
+END

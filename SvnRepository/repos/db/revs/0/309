@@ -1,0 +1,61 @@
+id: 0-309.0.r309/0
+type: dir
+count: 0
+cpath: /vcsdecorationconnectorNew
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 21
+dir 0-222.0.r243/7480
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 21
+dir 0-61.0.r200/10878
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 18
+dir 0-309.0.r309/0
+END
+ENDREP
+id: 0.0.r309/626
+type: dir
+pred: 0.0.r308/6909
+count: 309
+text: 309 87 526 526 f76abc9a4cd6f1ba333cbb67aa7b7bbb
+cpath: /
+copyroot: 0 /
+
+_0.0.t308-a3 add-dir false false /vcsdecorationconnectorNew
+
+
+626 762

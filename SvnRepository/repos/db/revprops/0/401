@@ -1,0 +1,14 @@
+K 7
+svn:log
+V 227
+migration to 3.7, notice this is working with source packages of compare and jdt.
+there is a small fix in compare that required this, and jdt is required for public modifiers I changed. the previous version is also important...
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2011-09-13T01:52:44.296000Z
+END

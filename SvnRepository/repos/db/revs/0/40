@@ -1,0 +1,96 @@
+PLAIN
+K 9
+myAspects
+V 10
+'aspect13'
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: b-7.0.r40/82
+type: file
+pred: b-7.0.r7/112
+count: 1
+text: 7 43 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 6-6/_f
+props: 40 0 69 69 aa7e199c08093526a3fce884cd561411
+cpath: /thesis.delivery.testhooks.observer/src/observer/o.txt
+copyroot: 0 /
+
+PLAIN
+K 5
+o.txt
+V 17
+file b-7.0.r40/82
+END
+ENDREP
+id: a-7.0.r40/412
+type: dir
+pred: a-7.0.r7/423
+count: 1
+text: 40 362 37 37 0c3f2039013cf5c589ab8af1f5f1b34a
+cpath: /thesis.delivery.testhooks.observer/src/observer
+copyroot: 0 /
+
+PLAIN
+K 4
+data
+V 17
+dir 3-7.0.r33/415
+K 5
+event
+V 17
+dir 7-7.0.r39/379
+K 8
+observer
+V 17
+dir a-7.0.r40/412
+END
+ENDREP
+id: 1-7.0.r40/709
+type: dir
+pred: 1-7.0.r39/674
+count: 33
+text: 40 591 105 105 a3049d5a7827042dad3ed68d45ffa049
+cpath: /thesis.delivery.testhooks.observer/src
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 17
+file 1-6.0.r6/251
+K 3
+src
+V 17
+dir 1-7.0.r40/709
+END
+ENDREP
+id: 0-5.0.r40/967
+type: dir
+pred: 0-5.0.r39/932
+count: 35
+text: 40 883 71 71 c4d8635e43b7ba4974ff87f0f8da167c
+cpath: /thesis.delivery.testhooks.observer
+copyroot: 0 /
+
+PLAIN
+K 34
+thesis.delivery.testhooks.observer
+V 17
+dir 0-5.0.r40/967
+END
+ENDREP
+id: 0.0.r40/1215
+type: dir
+pred: 0.0.r39/1180
+count: 40
+text: 40 1135 67 67 8ebd7ac40777d60bf146dd7b1862501d
+cpath: /
+copyroot: 0 /
+
+b-7.0.t39-1f modify-file false true /thesis.delivery.testhooks.observer/src/observer/o.txt
+
+
+1215 1348

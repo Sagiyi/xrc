@@ -1,0 +1,21 @@
+
+  <artifacts size='484'>
+
+    <artifact classifier='osgi.bundle' id='org.eclipse.compare' version='3.5.200.xrc'>
+      <properties size='1'>
+        <property name='download.size' value='706314'/>
+      </properties>
+    </artifact>
+
+    <artifact classifier='osgi.bundle' id='org.eclipse.jdt.ui' version='3.7.0.xrc'>
+      <properties size='1'>
+        <property name='download.size' value='9941564'/>
+      </properties>
+    </artifact>
+
+    <artifact classifier='osgi.bundle' id='xrc' version='2.0.0.xrc'>
+      <properties size='1'>
+        <property name='download.size' value='2422933'/>
+      </properties>
+    </artifact>
+    

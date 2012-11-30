@@ -1,0 +1,75 @@
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 22
+dir 0-222.0.r407/10012
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+XRC
+V 20
+dir 0-483.0.r529/660
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 17
+accountexample_v1
+V 21
+dir 0-408.0.r517/4105
+K 17
+diffengineexample
+V 21
+dir 0-441.0.r474/3862
+K 18
+markertypesexample
+V 21
+dir 0-311.0.r321/5741
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 20
+dir 0-61.0.r333/6114
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 21
+dir 0-309.0.r521/2107
+K 12
+xrctestsuite
+V 21
+dir 0-334.0.r432/3517
+END
+ENDREP
+id: 0.0.r530/772
+type: dir
+pred: 0.0.r529/2054
+count: 530
+text: 530 0 759 759 6ee5fbfc13db61d70aa48e2e385b1ad6
+cpath: /
+copyroot: 0 /
+
+0-527.0.r529/1098 delete-dir false false /xrc
+
+
+772 907

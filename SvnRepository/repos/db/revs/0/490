@@ -1,0 +1,125 @@
+id: 5-483.0-490.r490/0
+type: dir
+pred: 5-483.0.r488/341
+count: 4
+text: 488 178 150 150 94bc814c8565aa6bdff3de803cac0728
+cpath: /XRC/tags/bank_application_ver2
+copyfrom: 489 /XRC/trunk
+
+PLAIN
+K 21
+bank_application_ver1
+V 22
+dir 5-483.0-489.r489/0
+K 21
+bank_application_ver2
+V 22
+dir 5-483.0-490.r490/0
+END
+ENDREP
+id: 4-483.0.r490/312
+type: dir
+pred: 4-483.0.r489/257
+count: 2
+text: 490 185 114 114 e8f176cd6dbe9ddf3480ba6a8b3df48f
+cpath: /XRC/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 2-483.0.r483/0
+K 4
+tags
+V 20
+dir 4-483.0.r490/312
+K 5
+trunk
+V 20
+dir 5-483.0.r488/341
+END
+ENDREP
+id: 0-483.0.r490/587
+type: dir
+pred: 0-483.0.r489/530
+count: 5
+text: 490 462 112 112 9b5540c5a6b01f7bb576e7aaa2ffbc70
+cpath: /XRC
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 22
+dir 0-222.0.r407/10012
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+XRC
+V 20
+dir 0-483.0.r490/587
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 17
+accountexample_v1
+V 21
+dir 0-408.0.r465/3219
+K 17
+diffengineexample
+V 21
+dir 0-441.0.r474/3862
+K 18
+markertypesexample
+V 21
+dir 0-311.0.r321/5741
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 20
+dir 0-61.0.r333/6114
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 23
+dir 0-309.0.r403/462027
+K 12
+xrctestsuite
+V 21
+dir 0-334.0.r432/3517
+END
+ENDREP
+id: 0.0.r490/1506
+type: dir
+pred: 0.0.r489/1449
+count: 490
+text: 490 732 761 761 19d90f77f3720e9a594ba3afe8e2f676
+cpath: /
+copyroot: 0 /
+
+5-483._0.t489-f5 add-dir false false /XRC/tags/bank_application_ver2
+489 /XRC/trunk
+
+1506 1644

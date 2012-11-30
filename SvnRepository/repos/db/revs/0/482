@@ -1,0 +1,160 @@
+id: 3-482.0.r482/0
+type: dir
+count: 0
+cpath: /bankapplication_v1/XRC/branches
+copyroot: 0 /
+
+id: 6-482.0.r482/93
+type: dir
+count: 0
+cpath: /bankapplication_v1/XRC/trunk
+copyroot: 0 /
+
+id: 5-482.0.r482/184
+type: dir
+count: 0
+cpath: /bankapplication_v1/XRC/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 3-482.0.r482/0
+K 4
+tags
+V 20
+dir 5-482.0.r482/184
+K 5
+trunk
+V 19
+dir 6-482.0.r482/93
+END
+ENDREP
+id: 1-482.0.r482/399
+type: dir
+count: 0
+text: 482 275 111 111 ba138077bcd6888c68fd27fcd0adf0e7
+cpath: /bankapplication_v1/XRC
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 23
+file 1-476.0.r476/14290
+K 8
+.project
+V 23
+file 3-476.0.r476/13984
+K 9
+.settings
+V 21
+dir 4-476.0.r476/9123
+K 3
+XRC
+V 20
+dir 1-482.0.r482/399
+K 3
+bin
+V 22
+dir 7-476.0.r476/13789
+K 3
+src
+V 22
+dir g-476.0.r476/11409
+END
+ENDREP
+id: 0-475.0.r482/791
+type: dir
+pred: 0-475.0.r476/14763
+count: 2
+text: 482 540 238 238 060bcd490da87a95134e3b7f1907d826
+cpath: /bankapplication_v1
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 22
+dir 0-222.0.r407/10012
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 17
+accountexample_v1
+V 21
+dir 0-408.0.r465/3219
+K 18
+bankapplication_v1
+V 20
+dir 0-475.0.r482/791
+K 18
+bankapplication_v2
+V 22
+dir 0-480.0.r481/54561
+K 17
+diffengineexample
+V 21
+dir 0-441.0.r474/3862
+K 18
+markertypesexample
+V 21
+dir 0-311.0.r321/5741
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 20
+dir 0-61.0.r333/6114
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 23
+dir 0-309.0.r403/462027
+K 12
+xrctestsuite
+V 21
+dir 0-334.0.r432/3517
+END
+ENDREP
+id: 0.0.r482/1795
+type: dir
+pred: 0.0.r481/55567
+count: 482
+text: 482 953 829 829 5f2063f7f254cac2363ffc2a27cc0b80
+cpath: /
+copyroot: 0 /
+
+_3.0.t481-ex add-dir false false /bankapplication_v1/XRC/branches
+
+_6.0.t481-ex add-dir false false /bankapplication_v1/XRC/trunk
+
+_5.0.t481-ex add-dir false false /bankapplication_v1/XRC/tags
+
+_1.0.t481-ex add-dir false false /bankapplication_v1/XRC
+
+
+1795 1934

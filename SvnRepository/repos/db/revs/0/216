@@ -1,0 +1,265 @@
+PLAIN
+K 31
+AspectJStructureDiffViewer.java
+V 23
+file 1p-177.0.r215/1617
+K 13
+DiffType.java
+V 22
+file 1o-195.0.r214/570
+END
+ENDREP
+id: 1n-177.0.r216/130
+type: dir
+pred: 1n-177.0.r215/2178
+count: 7
+text: 216 0 117 117 d968ede3154c563d3cb4e08ed05becb9
+cpath: /vcsdecorationconnector/src/aarc/api/ide/eclipse/plugin/compare/ui/ajdt
+copyroot: 0 /
+
+PLAIN
+K 4
+ajdt
+V 21
+dir 1n-177.0.r216/130
+K 3
+jdt
+V 22
+dir 1s-177.0.r208/1511
+END
+ENDREP
+id: 1l-177.0.r216/432
+type: dir
+pred: 1l-177.0.r215/2485
+count: 10
+text: 216 343 76 76 8aab9561775bdb82f39577231c3c26b4
+cpath: /vcsdecorationconnector/src/aarc/api/ide/eclipse/plugin/compare/ui
+copyroot: 0 /
+
+PLAIN
+K 2
+ui
+V 21
+dir 1l-177.0.r216/432
+END
+ENDREP
+id: 1j-177.0.r216/692
+type: dir
+pred: 1j-177.0.r215/2747
+count: 10
+text: 216 641 38 38 bdc535bb81d73bae8deff0d7ea854e33
+cpath: /vcsdecorationconnector/src/aarc/api/ide/eclipse/plugin/compare
+copyroot: 0 /
+
+PLAIN
+K 7
+compare
+V 21
+dir 1j-177.0.r216/692
+K 3
+svn
+V 22
+dir 1w-177.0.r213/1980
+END
+ENDREP
+id: 1i-177.0.r216/990
+type: dir
+pred: 1i-177.0.r215/3047
+count: 11
+text: 216 898 79 79 f9924eaf5f6d572415e6d77ac4b1e948
+cpath: /vcsdecorationconnector/src/aarc/api/ide/eclipse/plugin
+copyroot: 0 /
+
+PLAIN
+K 4
+core
+V 21
+dir z-177.0.r202/1350
+K 6
+plugin
+V 21
+dir 1i-177.0.r216/990
+END
+ENDREP
+id: y-177.0.r216/1279
+type: dir
+pred: y-177.0.r215/3339
+count: 13
+text: 216 1188 78 78 0d8d26f21f9e1d798601c78df92455d7
+cpath: /vcsdecorationconnector/src/aarc/api/ide/eclipse
+copyroot: 0 /
+
+PLAIN
+K 19
+IMarkersReader.java
+V 24
+file v-177.0.r177/105845
+K 19
+IMarkersWriter.java
+V 24
+file x-177.0.r177/106189
+K 7
+eclipse
+V 21
+dir y-177.0.r216/1279
+END
+ENDREP
+id: u-177.0.r216/1636
+type: dir
+pred: u-177.0.r215/3696
+count: 13
+text: 216 1470 153 153 2d3377ddd51f1676583e96a4a49c391b
+cpath: /vcsdecorationconnector/src/aarc/api/ide
+copyroot: 0 /
+
+PLAIN
+K 6
+common
+V 23
+dir h-177.0.r177/107226
+K 7
+compare
+V 21
+dir l-177.0.r203/8981
+K 3
+ide
+V 21
+dir u-177.0.r216/1636
+K 2
+rc
+V 21
+dir 20-177.0.r209/796
+END
+ENDREP
+id: f-177.0.r216/1986
+type: dir
+pred: f-177.0.r215/4046
+count: 14
+text: 216 1821 152 152 3a4542c0631578b6fc91765cda9cb159
+cpath: /vcsdecorationconnector/src/aarc/api
+copyroot: 0 /
+
+PLAIN
+K 3
+api
+V 21
+dir f-177.0.r216/1986
+K 6
+config
+V 21
+dir 2e-177.0.r212/896
+K 4
+temp
+V 22
+dir 2i-177.0.r210/3130
+END
+ENDREP
+id: d-177.0.r216/2294
+type: dir
+pred: d-177.0.r215/4354
+count: 18
+text: 216 2167 114 114 b1aa6b81b3272619af578cff0445b710
+cpath: /vcsdecorationconnector/src/aarc
+copyroot: 0 /
+
+PLAIN
+K 4
+aarc
+V 21
+dir d-177.0.r216/2294
+END
+ENDREP
+id: c-177.0.r216/2524
+type: dir
+pred: c-177.0.r215/4584
+count: 18
+text: 216 2471 40 40 b731be52da2ef7f0ba242b565b0852eb
+cpath: /vcsdecorationconnector/src
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 23
+file 1-177.0.r195/64716
+K 8
+.project
+V 24
+file 3-177.0.r177/108811
+K 9
+.settings
+V 22
+dir 4-177.0.r177/82689
+K 8
+META-INF
+V 23
+dir 7-177.0.r177/108605
+K 16
+build.properties
+V 23
+file a-177.0.r177/82894
+K 5
+icons
+V 20
+dir 1-195.0.r196/819
+K 10
+plugin.xml
+V 21
+file b-177.0.r205/932
+K 3
+src
+V 21
+dir c-177.0.r216/2524
+END
+ENDREP
+id: 0-176.0.r216/3048
+type: dir
+pred: 0-176.0.r215/5108
+count: 21
+text: 216 2694 341 341 8888d1c082c97f249e879c53f0b36ec1
+cpath: /vcsdecorationconnector
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 21
+dir 0-61.0.r200/10878
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r216/3048
+END
+ENDREP
+id: 0.0.r216/3612
+type: dir
+pred: 0.0.r215/5672
+count: 216
+text: 216 3216 383 383 60c08156d6e3a3f449b5c924f3e80f04
+cpath: /
+copyroot: 0 /
+
+1r-177.0.r177/96266 delete-file false false /vcsdecorationconnector/src/aarc/api/ide/eclipse/plugin/compare/ui/ajdt/AspectJStructureDiffViewerCreator.java
+
+
+3612 3751

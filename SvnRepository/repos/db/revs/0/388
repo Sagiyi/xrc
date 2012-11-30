@@ -1,0 +1,273 @@
+PLAIN
+K 20
+FileInfoReader.class
+V 26
+file 2v-310.0.r310/1935263
+K 20
+PropertyReader.class
+V 26
+file 2x-310.0.r310/1933773
+K 20
+PropertyWriter.class
+V 26
+file 2y-310.0.r310/1934144
+K 16
+SvnFactory.class
+V 26
+file 30-310.0.r310/1935633
+K 23
+SvnFileInfoReader.class
+V 26
+file 31-310.0.r310/1934889
+K 23
+SvnPropertyReader.class
+V 26
+file 32-310.0.r310/1935999
+K 23
+SvnPropertyWriter.class
+V 26
+file 33-310.0.r310/1936373
+END
+ENDREP
+id: 2u-310.0.r388/428
+type: dir
+pred: 2u-310.0.r310/1937171
+count: 1
+text: 388 0 415 415 e756d171085d5276ddb3e8366299f4a9
+cpath: /vcsdecorationconnectorNew/bin/aarc/api/rc/svn
+copyroot: 0 /
+
+PLAIN
+K 14
+FileInfo.class
+V 26
+file 2m-310.0.r310/1932681
+K 15
+IFileInfo.class
+V 26
+file 2o-310.0.r310/1938146
+K 21
+IFileInfoReader.class
+V 26
+file 2p-310.0.r310/1932315
+K 16
+IRcFactory.class
+V 26
+file 2q-310.0.r310/1933041
+K 23
+IRcPropertyReader.class
+V 26
+file 2r-310.0.r310/1937410
+K 23
+IRcPropertyWriter.class
+V 26
+file 2s-310.0.r310/1937778
+K 25
+IRepositoryResource.class
+V 26
+file 2t-310.0.r310/1933403
+K 3
+svn
+V 21
+dir 2u-310.0.r388/428
+END
+ENDREP
+id: 2l-310.0.r388/1074
+type: dir
+pred: 2l-310.0.r310/1938899
+count: 1
+text: 388 619 442 442 b6480ac20d8075fe0f40fdfedc439d7c
+cpath: /vcsdecorationconnectorNew/bin/aarc/api/rc
+copyroot: 0 /
+
+PLAIN
+K 6
+common
+V 24
+dir k-310.0.r310/1961180
+K 7
+compare
+V 24
+dir o-310.0.r310/1941148
+K 3
+ide
+V 24
+dir w-310.0.r310/1960576
+K 2
+rc
+V 22
+dir 2l-310.0.r388/1074
+END
+ENDREP
+id: i-310.0.r388/1437
+type: dir
+pred: i-310.0.r310/1961526
+count: 1
+text: 388 1264 160 160 702692e7c61f242cc83c34fccd4d1dc6
+cpath: /vcsdecorationconnectorNew/bin/aarc/api
+copyroot: 0 /
+
+PLAIN
+K 3
+api
+V 21
+dir i-310.0.r388/1437
+K 6
+config
+V 25
+dir 34-310.0.r310/1919874
+K 4
+temp
+V 25
+dir 3b-310.0.r310/1932082
+END
+ENDREP
+id: g-310.0.r388/1757
+type: dir
+pred: g-310.0.r310/1961828
+count: 1
+text: 388 1623 121 121 9fba31a8a3dcc26253c864509ac710d2
+cpath: /vcsdecorationconnectorNew/bin/aarc
+copyroot: 0 /
+
+PLAIN
+K 4
+aarc
+V 21
+dir g-310.0.r388/1757
+END
+ENDREP
+id: f-310.0.r388/1992
+type: dir
+pred: f-310.0.r310/1962045
+count: 1
+text: 388 1939 40 40 14d0f8a66dbb826c14799b9b1fb1177a
+cpath: /vcsdecorationconnectorNew/bin
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 25
+file 1-310.0.r310/1969519
+K 8
+.project
+V 25
+file 3-310.0.r310/1968870
+K 9
+.settings
+V 24
+dir 4-310.0.r310/1875800
+K 8
+META-INF
+V 24
+dir 7-310.0.r310/1962598
+K 8
+OSGI-INF
+V 24
+dir a-310.0.r310/1963392
+K 18
+Sagi_evolution.txt
+V 22
+file 1-387.0.r387/1143
+K 3
+bin
+V 21
+dir f-310.0.r388/1992
+K 16
+build.properties
+V 26
+file 47-310.0.r310/1876232
+K 5
+icons
+V 22
+dir 48-310.0.r383/2389
+K 3
+lib
+V 25
+dir 4o-310.0.r310/1917559
+K 10
+plugin.xml
+V 22
+file 4r-310.0.r384/530
+K 3
+src
+V 22
+dir 4s-310.0.r386/3766
+K 14
+userDictionary
+V 26
+file 8f-310.0.r310/1875960
+END
+ENDREP
+id: 0-309.0.r388/2755
+type: dir
+pred: 0-309.0.r387/2005
+count: 28
+text: 388 2167 575 575 1c6c03d234bee93551603824ee9d788a
+cpath: /vcsdecorationconnectorNew
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 21
+dir 0-222.0.r243/7480
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 18
+markertypesexample
+V 21
+dir 0-311.0.r321/5741
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 20
+dir 0-61.0.r333/6114
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 21
+dir 0-309.0.r388/2755
+K 12
+xrctestsuite
+V 22
+dir 0-334.0.r362/10604
+END
+ENDREP
+id: 0.0.r388/3564
+type: dir
+pred: 0.0.r387/2814
+count: 388
+text: 388 2926 625 625 64614f70781156272f7a8185be7c7ca4
+cpath: /
+copyroot: 0 /
+
+2z-310.0.r310/1934515 delete-file false false /vcsdecorationconnectorNew/bin/aarc/api/rc/svn/RepositoryResource.class
+
+
+3564 3703

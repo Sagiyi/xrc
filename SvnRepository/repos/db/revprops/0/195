@@ -1,0 +1,14 @@
+K 7
+svn:log
+V 103
+works good, have bug with itd (show the icon in revision, ut not in diff).
+add markers and annotations.
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2010-11-17T23:21:07.250000Z
+END

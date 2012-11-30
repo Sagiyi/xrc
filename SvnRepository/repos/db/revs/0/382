@@ -1,0 +1,277 @@
+PLAIN
+K 19
+FileInfoReader.java
+V 23
+file 70-310.0.r379/1640
+K 19
+PropertyReader.java
+V 26
+file 72-310.0.r310/1893803
+K 19
+PropertyWriter.java
+V 26
+file 73-310.0.r310/1894158
+K 15
+SvnFactory.java
+V 22
+file 75-310.0.r381/277
+K 22
+SvnFileInfoReader.java
+V 23
+file 76-310.0.r379/2187
+K 22
+SvnPropertyReader.java
+V 22
+file 77-310.0.r380/511
+K 22
+SvnPropertyWriter.java
+V 26
+file 78-310.0.r310/1895590
+K 26
+SvnRepositoryResource.java
+V 26
+file 74-310.0-363.r363/578
+END
+ENDREP
+id: 6z-310.0.r382/471
+type: dir
+pred: 6z-310.0.r381/1123
+count: 5
+text: 382 0 458 458 cb8003e34b2e38a2068dd3686277f713
+cpath: /vcsdecorationconnectorNew/src/aarc/api/rc/svn
+copyroot: 0 /
+
+PLAIN
+K 13
+FileInfo.java
+V 22
+file 6r-310.0.r377/310
+K 14
+IFileInfo.java
+V 22
+file 6t-310.0.r378/369
+K 20
+IFileInfoReader.java
+V 23
+file 6u-310.0.r379/1099
+K 15
+IRcFactory.java
+V 26
+file 6v-310.0.r310/1892060
+K 22
+IRcPropertyReader.java
+V 26
+file 6w-310.0.r310/1896951
+K 22
+IRcPropertyWriter.java
+V 26
+file 6x-310.0.r310/1897304
+K 24
+IRepositoryResource.java
+V 26
+file 6y-310.0.r310/1897657
+K 23
+RepositoryResource.java
+V 21
+file 5-364.0.r364/663
+K 3
+svn
+V 21
+dir 6z-310.0.r382/471
+END
+ENDREP
+id: 6q-310.0.r382/1152
+type: dir
+pred: 6q-310.0.r381/1808
+count: 8
+text: 382 659 480 480 dc1a78c1e5aa610bd041f0b654e29a68
+cpath: /vcsdecorationconnectorNew/src/aarc/api/rc
+copyroot: 0 /
+
+PLAIN
+K 6
+common
+V 25
+dir 4x-310.0.r310/1916114
+K 7
+compare
+V 22
+dir 51-310.0.r365/2214
+K 3
+ide
+V 22
+dir 59-310.0.r376/2535
+K 2
+rc
+V 22
+dir 6q-310.0.r382/1152
+END
+ENDREP
+id: 4v-310.0.r382/1509
+type: dir
+pred: 4v-310.0.r381/2166
+count: 19
+text: 382 1339 157 157 a4c96efb16cfb3f84284f268ff29c15f
+cpath: /vcsdecorationconnectorNew/src/aarc/api
+copyroot: 0 /
+
+PLAIN
+K 3
+api
+V 22
+dir 4v-310.0.r382/1509
+K 6
+config
+V 22
+dir 79-310.0.r367/1298
+K 4
+temp
+V 25
+dir 7f-310.0.r310/1891841
+END
+ENDREP
+id: 4t-310.0.r382/1827
+type: dir
+pred: 4t-310.0.r381/2484
+count: 21
+text: 382 1695 119 119 e9951c32b8b68a2771c2229c9b6ba966
+cpath: /vcsdecorationconnectorNew/src/aarc
+copyroot: 0 /
+
+PLAIN
+K 4
+aarc
+V 22
+dir 4t-310.0.r382/1827
+END
+ENDREP
+id: 4s-310.0.r382/2063
+type: dir
+pred: 4s-310.0.r381/2720
+count: 21
+text: 382 2009 41 41 7c33dfc913dcc2ff4e576195c063efae
+cpath: /vcsdecorationconnectorNew/src
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 25
+file 1-310.0.r310/1969519
+K 8
+.project
+V 25
+file 3-310.0.r310/1968870
+K 9
+.settings
+V 24
+dir 4-310.0.r310/1875800
+K 8
+META-INF
+V 24
+dir 7-310.0.r310/1962598
+K 8
+OSGI-INF
+V 24
+dir a-310.0.r310/1963392
+K 3
+bin
+V 24
+dir f-310.0.r310/1962045
+K 16
+build.properties
+V 26
+file 47-310.0.r310/1876232
+K 5
+icons
+V 25
+dir 48-310.0.r310/1968661
+K 3
+lib
+V 25
+dir 4o-310.0.r310/1917559
+K 10
+plugin.xml
+V 26
+file 4r-310.0.r310/1969190
+K 3
+src
+V 22
+dir 4s-310.0.r382/2063
+K 14
+userDictionary
+V 26
+file 8f-310.0.r310/1875960
+END
+ENDREP
+id: 0-309.0.r382/2784
+type: dir
+pred: 0-309.0.r381/3441
+count: 22
+text: 382 2238 533 533 c9c9a890fac0ef0e8204ee56bf98f006
+cpath: /vcsdecorationconnectorNew
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 21
+dir 0-222.0.r243/7480
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 18
+markertypesexample
+V 21
+dir 0-311.0.r321/5741
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 20
+dir 0-61.0.r333/6114
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 21
+dir 0-309.0.r382/2784
+K 12
+xrctestsuite
+V 22
+dir 0-334.0.r362/10604
+END
+ENDREP
+id: 0.0.r382/3593
+type: dir
+pred: 0.0.r381/4250
+count: 382
+text: 382 2955 625 625 e0717065943e507539082a29755e14d5
+cpath: /
+copyroot: 0 /
+
+74-310.0.r310/1894515 delete-file false false /vcsdecorationconnectorNew/src/aarc/api/rc/svn/RepositoryResource.java
+
+
+3593 3732

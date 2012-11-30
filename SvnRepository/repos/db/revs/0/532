@@ -1,0 +1,49 @@
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+XRC
+V 22
+dir 0-483.0.r531/12236
+END
+ENDREP
+id: 0.0.r532/133
+type: dir
+pred: 0.0.r531/13160
+count: 532
+text: 532 0 120 120 66789751e361cadcefa497ed3974e68a
+cpath: /
+copyroot: 0 /
+
+0-441.0.r474/3862 delete-dir false false /diffengineexample
+
+3-48.0.r55/622 delete-dir false false /src
+
+0-73.0.r74/44056 delete-dir false false /thesis.delivery.compare.properties4.outline
+
+0-56.0.r91/1035 delete-dir false false /test.eclipse.compare.examples
+
+0-61.0.r333/6114 delete-dir false false /thesis.delivery.test.aspectj.simplestexample
+
+0-176.0.r217/4572 delete-dir false false /vcsdecorationconnector
+
+0-222.0.r407/10012 delete-dir false false /AJHotDraw
+
+0-311.0.r321/5741 delete-dir false false /markertypesexample
+
+0-309.0.r521/2107 delete-dir false false /vcsdecorationconnectorNew
+
+0-218.0.r308/6265 delete-dir false false /accountexample
+
+0-334.0.r432/3517 delete-dir false false /xrctestsuite
+
+0-408.0.r517/4105 delete-dir false false /accountexample_v1
+
+
+133 269

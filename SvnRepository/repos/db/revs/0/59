@@ -1,0 +1,106 @@
+PLAIN
+K 11
+myprop1Name
+V 12
+myProp1Value
+K 12
+myprop1Name2
+V 4
+val2
+END
+ENDREP
+id: a-57.0.r59/79
+type: file
+pred: a-57.0.r58/377
+count: 2
+text: 57 739 72 64 0e3e2de9be92d35ae2dbeab948401d68 6dab0a080cad1a424cfbab292ede3c84fd64594c 56-20/_l
+props: 59 0 66 66 1e28ece31587c45037186fe9a5281d32
+cpath: /test.eclipse.compare.examples/f9.kv8
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file 1-57.0.r57/2044
+K 5
+f1.kv
+V 20
+file 3-57.0.r57/2907
+K 5
+f2.kv
+V 20
+file 4-57.0.r57/2504
+K 6
+f2.kv2
+V 20
+file 5-57.0.r57/1385
+K 6
+f4.kv2
+V 20
+file 6-57.0.r57/1790
+K 6
+f5.kv7
+V 20
+file 7-57.0.r57/2705
+K 6
+f6.kv7
+V 20
+file 8-57.0.r57/3108
+K 6
+f8.kv8
+V 18
+file 9-57.0.r58/53
+K 6
+f9.kv8
+V 18
+file a-57.0.r59/79
+K 6
+f9.kva
+V 20
+file b-57.0.r57/2302
+K 7
+f91.kva
+V 20
+file c-57.0.r57/1587
+END
+ENDREP
+id: 0-56.0.r59/772
+type: dir
+pred: 0-56.0.r58/1075
+count: 3
+text: 59 351 408 408 a93be9eba78b565b386d7f73791ad02f
+cpath: /test.eclipse.compare.examples
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 18
+dir 0-56.0.r59/772
+END
+ENDREP
+id: 0.0.r59/1127
+type: dir
+pred: 0.0.r58/1432
+count: 59
+text: 59 939 175 175 9c7071a174dee8dc0534d9117a57a0ee
+cpath: /
+copyroot: 0 /
+
+a-57.0.t58-22 modify-file false true /test.eclipse.compare.examples/f9.kv8
+
+
+1127 1261

@@ -1,0 +1,14 @@
+K 7
+svn:log
+V 86
+add config to support ignoreModifiedFlug (*), and ignoreVersion (e.g. [*543] or [52])
+
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2011-09-10T03:14:45.390000Z
+END

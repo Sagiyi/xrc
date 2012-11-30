@@ -1,0 +1,212 @@
+PLAIN
+K 8
+add2.ico
+V 23
+file a-195.0.r195/55346
+K 9
+added.gif
+V 23
+file g-195.0.r195/53637
+K 10
+added2.gif
+V 23
+file h-195.0.r195/49838
+K 17
+changedadvice.gif
+V 23
+file m-195.0.r195/48795
+K 14
+modified2a.ico
+V 23
+file o-195.0.r195/56380
+K 14
+modified2b.ico
+V 23
+file p-195.0.r195/56729
+K 14
+modified2c.ico
+V 23
+file q-195.0.r195/57078
+K 14
+modified2d.ico
+V 23
+file r-195.0.r195/57427
+K 14
+modified2e.ico
+V 23
+file s-195.0.r195/57776
+K 14
+modified2f.ico
+V 23
+file t-195.0.r195/58125
+K 11
+remove2.ico
+V 23
+file w-195.0.r195/52592
+K 11
+removed.gif
+V 24
+file 10-195.0.r195/61592
+END
+ENDREP
+id: 3-195.0.r196/586
+type: dir
+pred: 3-195.0.r195/64055
+count: 1
+text: 196 0 573 573 1a650cd0ec1fcc7da1c583dec3664839
+cpath: /vcsdecorationconnector/icons/markers
+copyroot: 0 /
+
+PLAIN
+K 7
+markers
+V 20
+dir 3-195.0.r196/586
+END
+ENDREP
+id: 1-195.0.r196/819
+type: dir
+pred: 1-195.0.r195/64273
+count: 1
+text: 196 764 42 42 3d655aad2ea080cbb3d4da9558def359
+cpath: /vcsdecorationconnector/icons
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 23
+file 1-177.0.r195/64716
+K 8
+.project
+V 24
+file 3-177.0.r177/108811
+K 9
+.settings
+V 22
+dir 4-177.0.r177/82689
+K 8
+META-INF
+V 23
+dir 7-177.0.r177/108605
+K 16
+build.properties
+V 23
+file a-177.0.r177/82894
+K 5
+icons
+V 20
+dir 1-195.0.r196/819
+K 10
+plugin.xml
+V 23
+file b-177.0.r195/64422
+K 3
+src
+V 22
+dir c-177.0.r195/48558
+END
+ENDREP
+id: 0-176.0.r196/1346
+type: dir
+pred: 0-176.0.r195/65363
+count: 5
+text: 196 989 344 344 448bf3beb1c8f8b51d54743c853191ac
+cpath: /vcsdecorationconnector
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 21
+dir 0-61.0.r194/10480
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r196/1346
+END
+ENDREP
+id: 0.0.r196/1909
+type: dir
+pred: 0.0.r195/65929
+count: 196
+text: 196 1513 383 383 7448873d95a559936ed1091331807b42
+cpath: /
+copyroot: 0 /
+
+c-195.0.r195/59858 delete-file false false /vcsdecorationconnector/icons/markers/add777.gif
+
+j-195.0.r195/51214 delete-file false false /vcsdecorationconnector/icons/markers/added5.bmp
+
+v-195.0.r195/52247 delete-file false false /vcsdecorationconnector/icons/markers/remove1.ico
+
+12-195.0.r195/60201 delete-file false false /vcsdecorationconnector/icons/markers/removed5.bmp
+
+l-195.0.r195/51558 delete-file false false /vcsdecorationconnector/icons/markers/added6.bmp
+
+14-195.0.r195/60547 delete-file false false /vcsdecorationconnector/icons/markers/removed6.bmp
+
+16-195.0.r195/52938 delete-file false false /vcsdecorationconnector/icons/markers/removedBefore.gif
+
+e-195.0.r195/53290 delete-file false false /vcsdecorationconnector/icons/markers/addBefore.gif
+
+k-195.0.r195/61937 delete-file false false /vcsdecorationconnector/icons/markers/added55.gif
+
+13-195.0.r195/53980 delete-file false false /vcsdecorationconnector/icons/markers/removed55.gif
+
+d-195.0.r195/51901 delete-file false false /vcsdecorationconnector/icons/markers/addAfter.gif
+
+15-195.0.r195/61241 delete-file false false /vcsdecorationconnector/icons/markers/removedAfter.gif
+
+18-195.0.r195/55688 delete-file false false /vcsdecorationconnector/icons/markers/t.ico
+
+17-195.0.r195/56029 delete-file false false /vcsdecorationconnector/icons/markers/removedTransp.gif
+
+5-195.0.r195/54327 delete-file false false /vcsdecorationconnector/icons/markers/a1.ico
+
+9-195.0.r195/54666 delete-file false false /vcsdecorationconnector/icons/markers/add1.ico
+
+7-195.0.r195/55007 delete-file false false /vcsdecorationconnector/icons/markers/a2.ico
+
+x-195.0.r195/58474 delete-file false false /vcsdecorationconnector/icons/markers/remove4.GIF
+
+f-195.0.r195/49144 delete-file false false /vcsdecorationconnector/icons/markers/addMultiple.GIF
+
+y-195.0.r195/49493 delete-file false false /vcsdecorationconnector/icons/markers/remove4.bmp
+
+8-195.0.r195/50182 delete-file false false /vcsdecorationconnector/icons/markers/add.ico
+
+n-195.0.r195/60893 delete-file false false /vcsdecorationconnector/icons/markers/modified2.ico
+
+i-195.0.r195/50523 delete-file false false /vcsdecorationconnector/icons/markers/added3.gif
+
+11-195.0.r195/50867 delete-file false false /vcsdecorationconnector/icons/markers/removed3.GIF
+
+z-195.0.r195/58819 delete-file false false /vcsdecorationconnector/icons/markers/removeMultiple.GIF
+
+b-195.0.r195/59515 delete-file false false /vcsdecorationconnector/icons/markers/add776.gif
+
+u-195.0.r195/59171 delete-file false false /vcsdecorationconnector/icons/markers/remove.ico
+
+
+1909 2049

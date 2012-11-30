@@ -1,0 +1,188 @@
+PLAIN
+K 23
+TestingPropertyNameSagi
+V 24
+TestingPropertyValueSagi
+K 13
+svn:mime-type
+V 10
+text/plain
+END
+ENDREP
+id: 7-68.0.r76/111
+type: file
+pred: 7-68.0.r75/106
+count: 2
+text: 75 0 81 202 bf29b8f80f4d821b830e04f5ed024b10 2206c4ff4f03c7d3fdf6a8a7edaf37c79cf254d4 74-2i/_8
+props: 76 0 98 98 664078712e49957cce5951fc13bc30e6
+cpath: /thesis.delivery.test.aspectj.simplestexample/src/thesis/delivery/test/aspectj/simplestexample/Dog.java
+copyroot: 0 /
+
+PLAIN
+K 8
+Dog.java
+V 19
+file 7-68.0.r76/111
+K 17
+HelloPrinter.java
+V 19
+file w-62.0.r70/971
+K 14
+TraceAspect.aj
+V 19
+file y-62.0.r64/173
+END
+ENDREP
+id: u-62.0.r76/597
+type: dir
+pred: u-62.0.r75/596
+count: 10
+text: 76 449 135 135 537293e246dbdc65c4221b5795f66981
+cpath: /thesis.delivery.test.aspectj.simplestexample/src/thesis/delivery/test/aspectj/simplestexample
+copyroot: 0 /
+
+PLAIN
+K 15
+simplestexample
+V 18
+dir u-62.0.r76/597
+END
+ENDREP
+id: s-62.0.r76/890
+type: dir
+pred: s-62.0.r75/889
+count: 10
+text: 76 828 49 49 53e8efb5bf69fd178406bf6048f68905
+cpath: /thesis.delivery.test.aspectj.simplestexample/src/thesis/delivery/test/aspectj
+copyroot: 0 /
+
+PLAIN
+K 7
+aspectj
+V 18
+dir s-62.0.r76/890
+END
+ENDREP
+id: q-62.0.r76/1156
+type: dir
+pred: q-62.0.r75/1155
+count: 10
+text: 76 1103 40 40 4399ab7f1ad2d8715e755209845a58d7
+cpath: /thesis.delivery.test.aspectj.simplestexample/src/thesis/delivery/test
+copyroot: 0 /
+
+PLAIN
+K 4
+test
+V 19
+dir q-62.0.r76/1156
+END
+ENDREP
+id: o-62.0.r76/1415
+type: dir
+pred: o-62.0.r75/1413
+count: 10
+text: 76 1364 38 38 c161048bb2f0cb577a2ee5ca68e2d239
+cpath: /thesis.delivery.test.aspectj.simplestexample/src/thesis/delivery
+copyroot: 0 /
+
+PLAIN
+K 8
+delivery
+V 19
+dir o-62.0.r76/1415
+END
+ENDREP
+id: m-62.0.r76/1673
+type: dir
+pred: m-62.0.r75/1670
+count: 10
+text: 76 1618 42 42 8bcdab1b40bd354dab8b1ab528c61395
+cpath: /thesis.delivery.test.aspectj.simplestexample/src/thesis
+copyroot: 0 /
+
+PLAIN
+K 6
+thesis
+V 19
+dir m-62.0.r76/1673
+END
+ENDREP
+id: l-62.0.r76/1920
+type: dir
+pred: l-62.0.r75/1916
+count: 10
+text: 76 1867 40 40 44e62292073b189602364cc763825db1
+cpath: /thesis.delivery.test.aspectj.simplestexample/src
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 20
+file 1-62.0.r62/9483
+K 8
+.project
+V 20
+file 3-62.0.r62/9155
+K 9
+.settings
+V 19
+dir 4-62.0.r62/4370
+K 3
+bin
+V 19
+dir 7-62.0.r70/4780
+K 3
+src
+V 19
+dir l-62.0.r76/1920
+END
+ENDREP
+id: 0-61.0.r76/2310
+type: dir
+pred: 0-61.0.r75/2305
+count: 11
+text: 76 2107 190 190 27b5c9fc88a17ca00d71ba54dfa4d433
+cpath: /thesis.delivery.test.aspectj.simplestexample
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 18
+dir 0-56.0.r72/788
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 19
+dir 0-61.0.r76/2310
+END
+ENDREP
+id: 0.0.r76/2833
+type: dir
+pred: 0.0.r75/2828
+count: 76
+text: 76 2495 325 325 390468d60414427901fd8751b30ef933
+cpath: /
+copyroot: 0 /
+
+7-68.0.t75-2j modify-file false true /thesis.delivery.test.aspectj.simplestexample/src/thesis/delivery/test/aspectj/simplestexample/Dog.java
+
+
+2833 2968

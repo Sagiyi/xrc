@@ -1,0 +1,155 @@
+id: o-219.0.r221/0
+type: file
+pred: o-219.0.r220/235
+count: 2
+text: 219 8032 500 483 3cf244f0be23ccaa539bbfd183a2f54f 36d3a693259de7bd57cdf6ee23c664c234b75c6f 220-7h/_6
+props: 219 9095 39 39 f2ea0bdf4310dae3aef66de358bcb0e1
+cpath: /accountexample/src/accountexample/Tester.java
+copyroot: 0 /
+
+id: j-219.0.r221/293
+type: file
+pred: j-219.0.r220/529
+count: 2
+text: 219 6196 434 417 f6a167137a0fb5e4479ede915681f418 433c1b4e48798f36481d9a8738f5140184f7fbb7 220-7h/_4
+props: 219 9754 39 39 f2ea0bdf4310dae3aef66de358bcb0e1
+cpath: /accountexample/src/accountexample/Account.java
+copyroot: 0 /
+
+id: l-219.0.r221/589
+type: file
+pred: l-219.0.r220/822
+count: 2
+text: 219 6643 506 1474 1546f6db94af2717b4c3b51de3dfe368 6dfb788afb626ae44b50e3247fa866cf2e803bcd 220-7h/_5
+props: 219 10410 39 39 f2ea0bdf4310dae3aef66de358bcb0e1
+cpath: /accountexample/src/accountexample/Bank.java
+copyroot: 0 /
+
+PLAIN
+K 12
+Account.java
+V 21
+file j-219.0.r221/293
+K 9
+Bank.java
+V 21
+file l-219.0.r221/589
+K 14
+BlackList.java
+V 23
+file m-219.0.r219/10132
+K 18
+BlackListAdvice.aj
+V 22
+file n-219.0.r219/9473
+K 11
+Tester.java
+V 19
+file o-219.0.r221/0
+END
+ENDREP
+id: h-219.0.r221/1130
+type: dir
+pred: h-219.0.r220/1365
+count: 2
+text: 221 884 233 233 bb0a286a197dc7144fcec61b996c6808
+cpath: /accountexample/src/accountexample
+copyroot: 0 /
+
+PLAIN
+K 14
+accountexample
+V 21
+dir h-219.0.r221/1130
+END
+ENDREP
+id: g-219.0.r221/1371
+type: dir
+pred: g-219.0.r220/1608
+count: 2
+text: 221 1307 51 51 a834f2bfeee686348380e3ca58b4e120
+cpath: /accountexample/src
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 23
+file 1-219.0.r219/14054
+K 8
+.project
+V 23
+file 3-219.0.r219/13750
+K 9
+.settings
+V 21
+dir 4-219.0.r219/8952
+K 3
+bin
+V 21
+dir 7-219.0.r220/1787
+K 3
+src
+V 21
+dir g-219.0.r221/1371
+END
+ENDREP
+id: 0-218.0.r221/1747
+type: dir
+pred: 0-218.0.r220/2162
+count: 3
+text: 221 1532 202 202 67c2fc4dbd01456a9066a99ea7748ee2
+cpath: /accountexample
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 14
+accountexample
+V 21
+dir 0-218.0.r221/1747
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 21
+dir 0-61.0.r200/10878
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+END
+ENDREP
+id: 0.0.r221/2349
+type: dir
+pred: 0.0.r220/2765
+count: 221
+text: 221 1906 430 430 386fac09b8470badb8d0237c6a5ba68c
+cpath: /
+copyroot: 0 /
+
+l-219.0.t220-7h modify-file true false /accountexample/src/accountexample/Bank.java
+
+j-219.0.t220-7h modify-file true false /accountexample/src/accountexample/Account.java
+
+o-219.0.t220-7h modify-file true false /accountexample/src/accountexample/Tester.java
+
+
+2349 2488

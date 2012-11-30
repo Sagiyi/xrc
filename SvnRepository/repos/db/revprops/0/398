@@ -1,0 +1,13 @@
+K 7
+svn:log
+V 98
+migration to Eclipse 3.7, support both old and new delimiter ithat was changed in aspectJ } --> ' 
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2011-09-13T01:48:03.031000Z
+END

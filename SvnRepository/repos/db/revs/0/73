@@ -1,0 +1,45 @@
+id: 0-73.0.r73/0
+type: dir
+count: 0
+cpath: /thesis.delivery.compare.properties4.outline
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 18
+dir 0-56.0.r72/788
+K 43
+thesis.delivery.compare.properties4.outline
+V 16
+dir 0-73.0.r73/0
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 19
+dir 0-61.0.r70/5169
+END
+ENDREP
+id: 0.0.r73/437
+type: dir
+pred: 0.0.r72/1217
+count: 73
+text: 73 103 321 321 f230df38e4e72d01eb235f0bff198a9b
+cpath: /
+copyroot: 0 /
+
+_0.0.t72-2g add-dir false false /thesis.delivery.compare.properties4.outline
+
+
+437 570

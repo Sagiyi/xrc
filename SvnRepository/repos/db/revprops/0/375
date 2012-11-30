@@ -1,0 +1,15 @@
+K 7
+svn:log
+V 149
+expected to be called for both aspect and class.
+fix findAffectedFiles using new method compareRelationshipsWithPrev
+add method readPrevRelationships
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2011-09-10T03:23:48.359000Z
+END

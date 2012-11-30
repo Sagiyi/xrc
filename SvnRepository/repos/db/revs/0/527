@@ -1,0 +1,141 @@
+id: 2-527.0.r527/0
+type: dir
+count: 0
+cpath: /xrc/branches
+copyroot: 0 /
+
+id: 6-527.0.r527/74
+type: dir
+count: 0
+cpath: /xrc/trunk/xrc
+copyroot: 0 /
+
+PLAIN
+K 3
+xrc
+V 19
+dir 6-527.0.r527/74
+END
+ENDREP
+id: 5-527.0.r527/200
+type: dir
+count: 0
+text: 527 150 37 37 758421d7ea1b2544f0642de1da4e8279
+cpath: /xrc/trunk
+copyroot: 0 /
+
+id: 4-527.0.r527/326
+type: dir
+count: 0
+cpath: /xrc/tags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 2-527.0.r527/0
+K 4
+tags
+V 20
+dir 4-527.0.r527/326
+K 5
+trunk
+V 20
+dir 5-527.0.r527/200
+END
+ENDREP
+id: 0-527.0.r527/523
+type: dir
+count: 0
+text: 527 398 112 112 952371b87f89b3d22f38dbb53896069b
+cpath: /xrc
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 22
+dir 0-222.0.r407/10012
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+XRC
+V 20
+dir 0-483.0.r526/878
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 17
+accountexample_v1
+V 21
+dir 0-408.0.r517/4105
+K 17
+diffengineexample
+V 21
+dir 0-441.0.r474/3862
+K 18
+markertypesexample
+V 21
+dir 0-311.0.r321/5741
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 20
+dir 0-61.0.r333/6114
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 21
+dir 0-309.0.r521/2107
+K 3
+xrc
+V 20
+dir 0-527.0.r527/523
+K 12
+xrctestsuite
+V 21
+dir 0-334.0.r432/3517
+END
+ENDREP
+id: 0.0.r527/1451
+type: dir
+pred: 0.0.r526/1797
+count: 527
+text: 527 645 793 793 063814efbd96d377debdb1eda14be5c5
+cpath: /
+copyroot: 0 /
+
+_2.0.t526-g7 add-dir false false /xrc/branches
+
+_6.0.t526-g7 add-dir false false /xrc/trunk/xrc
+
+_0.0.t526-g7 add-dir false false /xrc
+
+_4.0.t526-g7 add-dir false false /xrc/tags
+
+_5.0.t526-g7 add-dir false false /xrc/trunk
+
+
+1451 1589

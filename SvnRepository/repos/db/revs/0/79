@@ -1,0 +1,49 @@
+id: 0-79.0.r79/0
+type: dir
+count: 0
+cpath: /testdelme
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 18
+dir 0-56.0.r78/763
+K 9
+testdelme
+V 16
+dir 0-79.0.r79/0
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 19
+dir 0-61.0.r76/2310
+END
+ENDREP
+id: 0.0.r79/443
+type: dir
+pred: 0.0.r78/1267
+count: 79
+text: 79 69 361 361 bd29caa8c8ca71c498bbfe2ec8fc304d
+cpath: /
+copyroot: 0 /
+
+_0.0.t78-3e add-dir false false /testdelme
+
+
+443 575

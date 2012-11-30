@@ -1,0 +1,21 @@
+PLAIN
+K 3
+XRC
+V 22
+dir 0-483.0.r531/12236
+END
+ENDREP
+id: 0.0.r533/53
+type: dir
+pred: 0.0.r532/133
+count: 533
+text: 533 0 40 40 5f49594e0a69d67b336d9e6dfa97de88
+cpath: /
+copyroot: 0 /
+
+j-48.0.r48/2570 delete-file false false /.project
+
+0-48.0.r48/850 delete-file false false /README.txt
+
+
+53 184

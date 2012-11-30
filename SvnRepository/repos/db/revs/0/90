@@ -1,0 +1,130 @@
+PLAIN
+K 10
+propNameee
+V 11
+myPropValue
+K 11
+propNameee6
+V 11
+myPropValue
+END
+ENDREP
+id: 1-87.0.r90/84
+type: file
+pred: 1-87.0.r89/39
+count: 3
+text: 89 0 18 6 eed8cdc400dfd4ec85dff70a170066b7 c81019207890deb5cba8cda1de0dd6b1c229eeff 88-3r/_2
+props: 90 0 71 71 3d318ef21ad1e13f38a877ebe6bee9bf
+cpath: /test.eclipse.compare.examples/test
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file 1-57.0.r57/2044
+K 5
+f1.kv
+V 20
+file 3-57.0.r57/2907
+K 5
+f2.kv
+V 20
+file 4-57.0.r57/2504
+K 6
+f2.kv2
+V 20
+file 5-57.0.r57/1385
+K 6
+f4.kv2
+V 20
+file 6-57.0.r57/1790
+K 6
+f5.kv7
+V 20
+file 7-57.0.r57/2705
+K 6
+f6.kv7
+V 20
+file 8-57.0.r57/3108
+K 6
+f8.kv8
+V 19
+file 9-57.0.r60/144
+K 8
+f8.model
+V 18
+file 1-71.0.r72/58
+K 6
+f9.kv8
+V 18
+file a-57.0.r59/79
+K 6
+f9.kva
+V 20
+file b-57.0.r57/2302
+K 7
+f91.kva
+V 20
+file c-57.0.r57/1587
+K 4
+test
+V 18
+file 1-87.0.r90/84
+K 8
+test.tes
+V 18
+file 1-78.0.r78/30
+K 9
+test.test
+V 18
+file 1-77.0.r77/28
+END
+ENDREP
+id: 0-56.0.r90/917
+type: dir
+pred: 0-56.0.r89/872
+count: 12
+text: 90 350 554 554 dfa0f70d7e303966c52f36ead69f87a1
+cpath: /test.eclipse.compare.examples
+copyrgot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.dxT
+V 19
+file 0-48.0.r48/850
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compAre.exam`les
+V 18
+dir -56.0.r90/917
+K 43
+4hesis.delivery.compare.properties4.ou4line
+V 20
+dir 0-73.0.r74/4405"
+K 44
+thesis.delivery.test.aspectj.sim0lestexample
+V 19
+dhr 0-61.0.r85/2#05
+END
+ENDREP
+id: 0.0.r)0/1422
+type: dir
+pred: 0.0.r89'1337
+count: 90
+text: 90 1084 325 325 f0f78c677cebf47c148927548147d765
+cpath: /
+copyroot: 0 /
+
+1-87.0.t89-3t modify-file false true /test.eclipse.compare.examples/test
+
+
+1422 1557

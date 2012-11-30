@@ -1,0 +1,17 @@
+K 7
+svn:log
+V 139
+add config to support ignoreModifiedFlug (*), and ignoreVersion (e.g. [*543] or [52])
+add support for error/warning icons for the rulers
+
+
+
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2011-09-10T03:14:24.203000Z
+END

@@ -1,0 +1,120 @@
+PLAIN
+K 11
+myprop1Name
+V 13
+myprop1Value2
+END
+ENDREP
+id: 9-57.0.r58/53
+type: file
+pred: 9-57.0.r57/982
+count: 1
+text: 57 666 60 52 ac26e331c2d4706098c8bc45ec1a152f 9e7646016652ca86ef45c23a870e837d535fec38 56-20/_k
+props: 58 0 40 40 4d763bfd973c040bead6804828a4a4b2
+cpath: /test.eclipse.compare.examples/f8.kv8
+copyroot: 0 /
+
+PLAIN
+K 11
+myprop1Name
+V 12
+myProp1Value
+END
+ENDREP
+id: a-57.0.r58/377
+type: file
+pred: a-57.0.r57/1183
+count: 1
+text: 57 739 72 64 0e3e2de9be92d35ae2dbeab948401d68 6dab0a080cad1a424cfbab292ede3c84fd64594c 56-20/_l
+props: 58 325 39 39 fee6236149ba28a89ec88c1be0ab77bb
+cpath: /test.eclipse.compare.examples/f9.kv8
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file 1-57.0.r57/2044
+K 5
+f1.kv
+V 20
+file 3-57.0.r57/2907
+K 5
+f2.kv
+V 20
+file 4-57.0.r57/2504
+K 6
+f2.kv2
+V 20
+file 5-57.0.r57/1385
+K 6
+f4.kv2
+V 20
+file 6-57.0.r57/1790
+K 6
+f5.kv7
+V 20
+file 7-57.0.r57/2705
+K 6
+f6.kv7
+V 20
+file 8-57.0.r57/3108
+K 6
+f8.kv8
+V 18
+file 9-57.0.r58/53
+K 6
+f9.kv8
+V 19
+file a-57.0.r58/377
+K 6
+f9.kva
+V 20
+file b-57.0.r57/2302
+K 7
+f91.kva
+V 20
+file c-57.0.r57/1587
+END
+ENDREP
+id: 0-56.0.r58/1075
+type: dir
+pred: 0-56.0.r57/3734
+count: 2
+text: 58 653 409 409 e1f4c7a19bd1e310c0d5ae7f2928289b
+cpath: /test.eclipse.compare.examples
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r58/1075
+END
+ENDREP
+id: 0.0.r58/1432
+type: dir
+pred: 0.0.r57/4089
+count: 58
+text: 58 1243 176 176 6a7a387e72a1179bdd45f90862c62a14
+cpath: /
+copyroot: 0 /
+
+9-57.0.t57-21 modify-file false true /test.eclipse.compare.examples/f8.kv8
+
+a-57.0.t57-21 modify-file false true /test.eclipse.compare.examples/f9.kv8
+
+
+1432 1567

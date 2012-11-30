@@ -1,0 +1,15 @@
+K 7
+svn:log
+V 130
+fix to use new error and warning markers
+add support for aj history (+markerIconTypes for this)
+fix to support returning in advice
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2011-09-10T03:21:21.890000Z
+END

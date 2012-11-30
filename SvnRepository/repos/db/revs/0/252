@@ -1,0 +1,141 @@
+id: n-219.0.r252/0
+type: file
+pred: n-219.0.r251/2309
+count: 5
+text: 246 0 497 1218 6dbb26bafe19fda7fa5310a6b8271e96 76b8bd05d5ae53cb911109b5a4d9d9c943f80991 251-8i/_4
+props: 251 0 2296 2296 4c3aa49393170a9b96f806de819ed82a
+cpath: /accountexample/src/accountexample/BlackListAdvice.aj
+copyroot: 0 /
+
+PLAIN
+K 12
+Account.java
+V 22
+file j-219.0.r251/5310
+K 9
+Bank.java
+V 23
+file l-219.0.r251/10403
+K 14
+BlackList.java
+V 22
+file m-219.0.r251/7871
+K 18
+BlackListAdvice.aj
+V 19
+file n-219.0.r252/0
+K 22
+LimitedUserTester.java
+V 23
+file 3-245.0.r251/12929
+K 8
+Trace.aj
+V 22
+file 3-244.0.r250/3437
+END
+ENDREP
+id: h-219.0.r252/601
+type: dir
+pred: h-219.0.r251/13547
+count: 11
+text: 252 300 288 288 49c5ed5bc587b97db71ee105b7e2e656
+cpath: /accountexample/src/accountexample
+copyroot: 0 /
+
+PLAIN
+K 14
+accountexample
+V 20
+dir h-219.0.r252/601
+END
+ENDREP
+id: g-219.0.r252/842
+type: dir
+pred: g-219.0.r251/13794
+count: 11
+text: 252 779 50 50 0e9dbe0a1cd1c351b46370a0ffbf4be4
+cpath: /accountexample/src
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 23
+file 1-219.0.r219/14054
+K 8
+.project
+V 23
+file 3-219.0.r219/13750
+K 9
+.settings
+V 21
+dir 4-219.0.r219/8952
+K 3
+bin
+V 21
+dir 7-219.0.r220/1787
+K 3
+src
+V 20
+dir g-219.0.r252/842
+END
+ENDREP
+id: 0-218.0.r252/1217
+type: dir
+pred: 0-218.0.r251/14175
+count: 12
+text: 252 1003 201 201 de17f391ce422c8c740b30bf02050211
+cpath: /accountexample
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 21
+dir 0-222.0.r243/7480
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 14
+accountexample
+V 21
+dir 0-218.0.r252/1217
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 21
+dir 0-61.0.r200/10878
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+END
+ENDREP
+id: 0.0.r252/1862
+type: dir
+pred: 0.0.r251/14823
+count: 252
+text: 252 1378 471 471 9a9cbe66dbcd31e3aa96656b15540438
+cpath: /
+copyroot: 0 /
+
+n-219.0.t251-8i modify-file true false /accountexample/src/accountexample/BlackListAdvice.aj
+
+
+1862 2002

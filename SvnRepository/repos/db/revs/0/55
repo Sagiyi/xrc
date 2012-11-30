@@ -1,0 +1,81 @@
+PLAIN
+K 9
+myAspects
+V 10
+'aspect16'
+END
+ENDREP
+id: 6-48.0.r55/47
+type: file
+pred: 6-48.0.r48/1025
+count: 1
+text: 48 184 13 1 9dd4e461268c8034f5c8564e155c67a6 11f6ad8ec52a2984abaafd7c3b516503785c2072 47-1p/_8
+props: 55 0 34 34 b1f1851291b55b2910830c1358dda181
+cpath: /src/observer/o.txt
+copyroot: 0 /
+
+PLAIN
+K 5
+o.txt
+V 18
+file 6-48.0.r55/47
+END
+ENDREP
+id: 4-48.0.r55/352
+type: dir
+pred: 4-48.0.r48/1261
+count: 1
+text: 55 301 38 38 2a06c218560e8de76a239d45197a6ae4
+cpath: /src/observer
+copyroot: 0 /
+
+PLAIN
+K 4
+data
+V 19
+dir 9-48.0.r48/1842
+K 5
+event
+V 18
+dir f-48.0.r54/305
+K 8
+observer
+V 18
+dir 4-48.0.r55/352
+END
+ENDREP
+id: 3-48.0.r55/622
+type: dir
+pred: 3-48.0.r54/572
+count: 7
+text: 55 500 109 109 d2ac2fb3a2d298259b6686f1e535e807
+cpath: /src
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+END
+ENDREP
+id: 0.0.r55/891
+type: dir
+pred: 0.0.r54/841
+count: 55
+text: 55 762 116 116 66ee557ee5c6da1d1870f213d3a81f5c
+cpath: /
+copyroot: 0 /
+
+6-48.0.t54-1y modify-file false true /src/observer/o.txt
+
+
+891 1023

@@ -1,0 +1,152 @@
+PLAIN
+K 10
+.classpath
+V 23
+file 1-476.0.r476/14290
+K 8
+.project
+V 23
+file 3-476.0.r476/13984
+K 9
+.settings
+V 21
+dir 4-476.0.r476/9123
+K 3
+bin
+V 25
+dir 7-476.0-484.r497/3771
+K 3
+src
+V 25
+dir g-476.0-484.r525/4954
+END
+ENDREP
+id: 0-475.0-484.r526/223
+type: dir
+pred: 0-475.0-484.r525/5425
+count: 21
+text: 526 0 210 210 134c95ac57b5523afcedd293601ac891
+cpath: /XRC/trunk/bankapplication_v1
+copyroot: 484 /XRC/trunk/bankapplication_v1
+
+PLAIN
+K 18
+bankapplication_v1
+V 24
+dir 0-475.0-484.r526/223
+K 18
+bankapplication_v2
+V 26
+dir 0-480.0-485.r512/11860
+K 9
+testsuite
+V 22
+dir 0-486.0-488.r488/0
+END
+ENDREP
+id: 5-483.0.r526/600
+type: dir
+pred: 5-483.0.r525/5807
+count: 34
+text: 526 431 156 156 33ab92457c2a6e5925a99762f53628b2
+cpath: /XRC/trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 2-483.0.r483/0
+K 4
+tags
+V 20
+dir 4-483.0.r490/312
+K 5
+trunk
+V 20
+dir 5-483.0.r526/600
+END
+ENDREP
+id: 0-483.0.r526/878
+type: dir
+pred: 0-483.0.r525/6088
+count: 36
+text: 526 753 112 112 ae28e7e8f6e8bf213a92266b21e48e90
+cpath: /XRC
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 22
+dir 0-222.0.r407/10012
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+XRC
+V 20
+dir 0-483.0.r526/878
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 17
+accountexample_v1
+V 21
+dir 0-408.0.r517/4105
+K 17
+diffengineexample
+V 21
+dir 0-441.0.r474/3862
+K 18
+markertypesexample
+V 21
+dir 0-311.0.r321/5741
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 20
+dir 0-61.0.r333/6114
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 21
+dir 0-309.0.r521/2107
+K 12
+xrctestsuite
+V 21
+dir 0-334.0.r432/3517
+END
+ENDREP
+id: 0.0.r526/1797
+type: dir
+pred: 0.0.r525/7010
+count: 526
+text: 526 1025 759 759 c152244c9e5be05dbd49182cb5bfd71c
+cpath: /
+copyroot: 0 /
+
+1-482.0.r482/399 delete-dir false false /XRC/trunk/bankapplication_v1/XRC
+
+
+1797 1936

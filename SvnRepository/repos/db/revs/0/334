@@ -1,0 +1,69 @@
+id: 0-334.0.r334/0
+type: dir
+count: 0
+cpath: /xrctestsuite
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 21
+dir 0-222.0.r243/7480
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 18
+markertypesexample
+V 21
+dir 0-311.0.r321/5741
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 20
+dir 0-61.0.r333/6114
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 21
+dir 0-309.0.r322/5312
+K 12
+xrctestsuite
+V 18
+dir 0-334.0.r334/0
+END
+ENDREP
+id: 0.0.r334/708
+type: dir
+pred: 0.0.r333/6895
+count: 334
+text: 334 74 621 621 5ccadb3b47e825dc3d26cb17768a8240
+cpath: /
+copyroot: 0 /
+
+_0.0.t333-as add-dir false false /xrctestsuite
+
+
+708 844

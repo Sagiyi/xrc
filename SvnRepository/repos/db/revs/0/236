@@ -1,0 +1,196 @@
+PLAIN
+END
+ENDREP
+id: 6-224.0.r236/17
+type: dir
+pred: 6-224.0.r226/6039
+count: 3
+text: 236 0 4 4 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /AJHotDraw/src/org/jhotdraw/persistence
+copyroot: 0 /
+
+PLAIN
+K 6
+applet
+V 25
+dir fg-223.0.r223/1425350
+K 11
+application
+V 25
+dir fk-223.0.r223/1319733
+K 10
+ccconcerns
+V 21
+dir 4-230.0.r235/6995
+K 7
+contrib
+V 25
+dir fn-223.0.r223/1407955
+K 11
+contrib.jdo
+V 26
+file ih-223.0.r223/1319897
+K 7
+figures
+V 22
+dir ii-223.0.r231/4126
+K 11
+figures.jdo
+V 26
+file jj-223.0.r223/1340388
+K 9
+framework
+V 22
+dir jk-223.0.r234/2890
+K 13
+framework.jdo
+V 26
+file kc-223.0.r223/1340167
+K 6
+images
+V 25
+dir kd-223.0.r223/1368087
+K 11
+persistence
+V 19
+dir 6-224.0.r236/17
+K 7
+samples
+V 25
+dir mc-223.0.r223/1424775
+K 8
+standard
+V 22
+dir nt-223.0.r226/5412
+K 12
+standard.jdo
+V 26
+file pn-223.0.r223/1339946
+K 4
+util
+V 25
+dir po-223.0.r223/1339785
+END
+ENDREP
+id: fe-223.0.r236/873
+type: dir
+pred: fe-223.0.r235/7860
+count: 13
+text: 236 191 669 669 59b50b2d33c3981b508aa74aef1b42ab
+cpath: /AJHotDraw/src/org/jhotdraw
+copyroot: 0 /
+
+PLAIN
+K 8
+jhotdraw
+V 21
+dir fe-223.0.r236/873
+END
+ENDREP
+id: fc-223.0.r236/1102
+type: dir
+pred: fc-223.0.r235/8092
+count: 13
+text: 236 1045 44 44 1ecbfdb7210402c78e4e7b9eb7759b40
+cpath: /AJHotDraw/src/org
+copyroot: 0 /
+
+PLAIN
+K 3
+org
+V 22
+dir fc-223.0.r236/1102
+END
+ENDREP
+id: fb-223.0.r236/1318
+type: dir
+pred: fb-223.0.r235/8308
+count: 13
+text: 236 1265 40 40 45cfccca42813b98785497f000a82d59
+cpath: /AJHotDraw/src
+copyroot: 0 /
+
+PLAIN
+K 10
+.classpath
+V 25
+file 1-223.0.r223/1691688
+K 8
+.project
+V 25
+file 3-223.0.r223/1691384
+K 9
+.settings
+V 24
+dir 4-223.0.r223/1319161
+K 3
+bin
+V 22
+dir 7-223.0.r226/10773
+K 3
+src
+V 22
+dir fb-223.0.r236/1318
+END
+ENDREP
+id: 0-222.0.r236/1701
+type: dir
+pred: 0-222.0.r235/8691
+count: 14
+text: 236 1477 211 211 745603a31007e64bf20a859d431669b1
+cpath: /AJHotDraw
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 21
+dir 0-222.0.r236/1701
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 14
+accountexample
+V 21
+dir 0-218.0.r221/1747
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 21
+dir 0-61.0.r200/10878
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+END
+ENDREP
+id: 0.0.r236/2340
+type: dir
+pred: 0.0.r235/9330
+count: 236
+text: 236 1856 471 471 ea35747af6065180b6ae2e263ef56713
+cpath: /
+copyroot: 0 /
+
+9-224.0.r226/5596 delete-file false false /AJHotDraw/src/org/jhotdraw/persistence/PersistentFigure.aj
+
+7-224.0.r224/9662 delete-file false false /AJHotDraw/src/org/jhotdraw/persistence/PersistentAttributeFigure.aj
+
+
+2340 2479

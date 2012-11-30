@@ -1,0 +1,3 @@
+org.eclipse.compare,3.5.200.xrc,plugins/org.eclipse.compare_3.5.200.xrc.jar,4,false
+org.eclipse.jdt.ui,3.7.0.xrc,plugins/org.eclipse.jdt.ui_3.7.0.xrc.jar,4,false
+xrc,2.0.0.xrc,plugins/xrc_2.0.0.xrc.jar,4,false

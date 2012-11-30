@@ -1,0 +1,13 @@
+K 7
+svn:log
+V 119
+if build failed don't modify the svn aspects property for file and affected files.(will be configurable in the future).
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2011-09-13T01:49:38.125000Z
+END

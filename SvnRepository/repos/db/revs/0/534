@@ -1,0 +1,79 @@
+id: 2-534.0.r534/0
+type: dir
+count: 0
+cpath: /XRC/trunk/xrc_supplemental
+copyroot: 0 /
+
+PLAIN
+K 18
+bankapplication_v1
+V 24
+dir 0-475.0-484.r526/223
+K 18
+bankapplication_v2
+V 26
+dir 0-480.0-485.r512/11860
+K 9
+testsuite
+V 22
+dir 0-486.0-488.r488/0
+K 3
+xrc
+V 26
+dir 6-527.0-529.r531/11564
+K 16
+xrc_supplemental
+V 18
+dir 2-534.0.r534/0
+END
+ENDREP
+id: 5-483.0.r534/343
+type: dir
+pred: 5-483.0.r531/11953
+count: 37
+text: 534 88 242 242 f7cc989f628c1111c6141e1079e1f25f
+cpath: /XRC/trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 2-483.0.r483/0
+K 4
+tags
+V 20
+dir 4-483.0.r490/312
+K 5
+trunk
+V 20
+dir 5-483.0.r534/343
+END
+ENDREP
+id: 0-483.0.r534/621
+type: dir
+pred: 0-483.0.r531/12236
+count: 39
+text: 534 496 112 112 5223c45189de2931bf51b6aad8eae808
+cpath: /XRC
+copyroot: 0 /
+
+PLAIN
+K 3
+XRC
+V 20
+dir 0-483.0.r534/621
+END
+ENDREP
+id: 0.0.r534/820
+type: dir
+pred: 0.0.r533/53
+count: 534
+text: 534 769 38 38 e86b13bf4f3716aaf41a89d2850b839c
+cpath: /
+copyroot: 0 /
+
+_2.0.t533-ge add-dir false false /XRC/trunk/xrc_supplemental
+
+
+820 953

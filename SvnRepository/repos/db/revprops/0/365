@@ -1,0 +1,15 @@
+K 7
+svn:log
+V 182
+add compareTargets(..) to support ignoreModifiedFlug (*), and ignoreVersion (e.g. [*543] or [52])
+add method rempveVersion(target) TODO: consider moving to parser.
+flat become static
+K 10
+svn:author
+V 13
+Administrator
+K 8
+svn:date
+V 27
+2011-09-10T03:12:40.906000Z
+END

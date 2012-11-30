@@ -1,0 +1,73 @@
+id: 0-408.0.r408/0
+type: dir
+count: 0
+cpath: /accountexample_v1
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 22
+dir 0-222.0.r407/10012
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 17
+accountexample_v1
+V 18
+dir 0-408.0.r408/0
+K 18
+markertypesexample
+V 21
+dir 0-311.0.r321/5741
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 20
+dir 0-61.0.r333/6114
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 23
+dir 0-309.0.r403/462027
+K 12
+xrctestsuite
+V 21
+dir 0-334.0.r404/2862
+END
+ENDREP
+id: 0.0.r408/766
+type: dir
+pred: 0.0.r407/10808
+count: 408
+text: 408 79 674 674 160577711c545164face7f5aef9e6620
+cpath: /
+copyroot: 0 /
+
+_0.0.t407-cu add-dir false false /accountexample_v1
+
+
+766 903

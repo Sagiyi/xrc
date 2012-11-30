@@ -1,0 +1,173 @@
+id: 6-527.0-529.r529/0
+type: dir
+pred: 6-527.0.r528/190944
+count: 2
+text: 528 190352 579 579 03bd39722e037050403aa563a0bda3ca
+cpath: /XRC/trunk/xrc
+copyfrom: 528 /xrc/trunk/xrc
+
+PLAIN
+K 18
+bankapplication_v1
+V 24
+dir 0-475.0-484.r526/223
+K 18
+bankapplication_v2
+V 26
+dir 0-480.0-485.r512/11860
+K 9
+testsuite
+V 22
+dir 0-486.0-488.r488/0
+K 3
+xrc
+V 22
+dir 6-527.0-529.r529/0
+END
+ENDREP
+id: 5-483.0.r529/383
+type: dir
+pred: 5-483.0.r526/600
+count: 35
+text: 529 178 192 192 914a552c01908ca3548267feaf7b84e1
+cpath: /XRC/trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 2-483.0.r483/0
+K 4
+tags
+V 20
+dir 4-483.0.r490/312
+K 5
+trunk
+V 20
+dir 5-483.0.r529/383
+END
+ENDREP
+id: 0-483.0.r529/660
+type: dir
+pred: 0-483.0.r526/878
+count: 37
+text: 529 535 112 112 51045027a16bcf7f1ed5ed8f8da01a40
+cpath: /XRC
+copyroot: 0 /
+
+PLAIN
+END
+ENDREP
+id: 5-527.0.r529/823
+type: dir
+pred: 5-527.0.r528/191158
+count: 2
+text: 529 806 4 4 2d2977d1c96f487abe4a1e202dd03b4e
+cpath: /xrc/trunk
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 2-527.0.r527/0
+K 4
+tags
+V 20
+dir 4-527.0.r527/326
+K 5
+trunk
+V 20
+dir 5-527.0.r529/823
+END
+ENDREP
+id: 0-527.0.r529/1098
+type: dir
+pred: 0-527.0.r528/191441
+count: 2
+text: 529 973 112 112 673980260e66f3e19c58e8f009655cde
+cpath: /xrc
+copyroot: 0 /
+
+PLAIN
+K 8
+.project
+V 20
+file j-48.0.r48/2570
+K 9
+AJHotDraw
+V 22
+dir 0-222.0.r407/10012
+K 10
+README.txt
+V 19
+file 0-48.0.r48/850
+K 3
+XRC
+V 20
+dir 0-483.0.r529/660
+K 14
+accountexample
+V 21
+dir 0-218.0.r308/6265
+K 17
+accountexample_v1
+V 21
+dir 0-408.0.r517/4105
+K 17
+diffengineexample
+V 21
+dir 0-441.0.r474/3862
+K 18
+markertypesexample
+V 21
+dir 0-311.0.r321/5741
+K 3
+src
+V 18
+dir 3-48.0.r55/622
+K 29
+test.eclipse.compare.examples
+V 19
+dir 0-56.0.r91/1035
+K 43
+thesis.delivery.compare.properties4.outline
+V 20
+dir 0-73.0.r74/44056
+K 44
+thesis.delivery.test.aspectj.simplestexample
+V 20
+dir 0-61.0.r333/6114
+K 22
+vcsdecorationconnector
+V 21
+dir 0-176.0.r217/4572
+K 25
+vcsdecorationconnectorNew
+V 21
+dir 0-309.0.r521/2107
+K 3
+xrc
+V 21
+dir 0-527.0.r529/1098
+K 12
+xrctestsuite
+V 21
+dir 0-334.0.r432/3517
+END
+ENDREP
+id: 0.0.r529/2054
+type: dir
+pred: 0.0.r528/192401
+count: 529
+text: 529 1247 794 794 aff58083caac9dbe60cbfe7663e2dcee
+cpath: /
+copyroot: 0 /
+
+6-527._0.t528-g9 add-dir false false /XRC/trunk/xrc
+528 /xrc/trunk/xrc
+6-527.0.r528/190944 delete-dir false false /xrc/trunk/xrc
+
+
+2054 2195
