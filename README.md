@@ -10,8 +10,12 @@ The content of the folders is as following:
 - **Docs** - User Guide and Developer Guide (currently can be found in the thesis appendixes).
 - **EmbeddedInstallation** - Contains the required files for XRC plug-in installation within an already installed Eclipse IDE.
 - **SvnRepository** - The SVN Repository contains the XRC Source Code, a Test Suite and the Bank Application examples updated at the release time.
-- **GitRepository** - The GIT Repository will contain the XRC Source Code, a Test Suite and the Bank Application examples updated at the release time.
+- **Source** - Contain the XRC Source Code, a Test Suite and the Bank Application examples updated at the release time.
 
 Note: The **XRC Standalone Installation** contains Eclipse with the XRC plug-in, as well as AJDT and SVN plug-ins. It is not commited to the github, however it is available on my sites:
+
 [http://www.cslab.openu.ac.il/research/xrc/index.html](http://www.cslab.openu.ac.il/research/xrc/index.html "my XRC site in openu")
 [https://sites.google.com/site/sagiifrahresearch/publications](https://sites.google.com/site/sagiifrahresearch/publications "my google site")
+
+## Quick Start ##
+Open the user guide from Docs, (currently in the thesis appendixes), and follow the instructions.
