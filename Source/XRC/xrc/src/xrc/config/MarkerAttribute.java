@@ -1,0 +1,8 @@
+package xrc.config;
+
+public enum MarkerAttribute {
+	RELATIONSHIP_NAME,
+	RELATIONSHIP_KIND,
+	RELATIONSHIP_SOURCE_HANDLE,
+	RELATIONSHIP_TARGETS
+}

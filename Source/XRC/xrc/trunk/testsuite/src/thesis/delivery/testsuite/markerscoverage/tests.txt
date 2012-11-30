@@ -1,0 +1,54 @@
+Future work is to make it automatic.
+Scenarios:
+1. build:
+(a)
+verift: configuration > isToClearMarkersOnBuildFailure set to false
+xrctestsuite > team > cleanup
+verify nothing is dirty (with '>' before filename in the package explorer)
+modify MyClass change 'afterMe' to 'af terMe', to have a compilation error,
+Note: the aspects (MyAspect, OtherAspect) actually stop to advise MyClass)
+save.
+xrctestsuite > team > cleanup
+verify no aspect (MyAspect, OtherAspect) is dirty (with '>' before filename in the package explorer)
+revert all to clean.
+
+(b)
+change configuration isToClearMarkersOnBuildFailure to true.
+do 1(a) and verify the aspects (MyAspect, OtherAspect) are dirty before the revert.
+
+2. modify adviser aspect on class change.
+xrctestsuite > team > cleanup
+verify nothing is dirty 
+modify MyClass change declareError to undeclareError, so MyAspect would stop to advise it.
+save.
+xrctestsuite > team > cleanup
+verify MyClass and MyAspect are dirty, and nothing else is dirty (e.g., OtherAspect).
+
+3. advice markers coverage:
+(a) class
+open MyClass, verify all markers are displayed, and with expected icons.
+(list: ???)
+modify MyClass (e.g. add a space)
+commit
+MyClass team > history > open last revision by clicking it.
+verify all markers are displayed, and with expected icons.
+verify the hints for the markers are making sense.
+(ai) history
+(aii) comparison (2 old versions. compare with current is not supported yet) 
+(b) aspect
+(bi) history
+(bii) comparison (2 old versions. compare with current is not supported yet)
+
+4. changed advice markers coverage:
+(a) class
+(b) aspect
+
+
+5. multiple files relationships
+(a)verify no problem for a relationship that has more than one target. (data for both is saved and displayed)
+(ai) MyClass is advised by both MyAspect & OtherAspect.
+(aii) MyAspect advice both MyClass and MyInterface
+
+
+
+

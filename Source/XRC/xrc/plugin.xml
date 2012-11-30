@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+	<extension
+		point="org.eclipse.core.filebuffers.annotationModelCreation">
+		<factory
+            contentTypeId="org.eclipse.jdt.core.javaSource"
+            class="xrc.api.ide.eclipse.core.CompilationUnitDocumentProvider4XRC"/>
+   </extension>
+
+	<extension
+         point="org.eclipse.core.runtime.adapters">
+		<factory
+            adaptableType="org.eclipse.team.svn.ui.compare.ResourceCompareInput$ResourceElement"
+            class="xrc.api.ide.eclipse.plugin.svn.SvnSharedDocumentAdapterFactory">
+        	<adapter
+               type="org.eclipse.compare.ISharedDocumentAdapter">
+         	</adapter>
+		</factory>
+   </extension>
+    
+	<extension point = "org.eclipse.compare.contentMergeViewers"> 
+	     <viewer 
+	         id="org.eclipse.jdt.internal.ui.compare.DecoratedJavaMergeViewer" 
+	         class="xrc.api.ide.eclipse.plugin.compare.ui.jdt.DecoratedJavaContentViewerCreator" 
+	         extensions="java,aj"
+	         label="%viewer.label" 
+	    /> 
+	    <contentTypeBinding
+				contentTypeId="org.eclipse.jdt.core.javaSource"
+	            contentMergeViewerId="org.eclipse.jdt.internal.ui.compare.JavaContentViewerCreator">
+		</contentTypeBinding>
+	</extension> 
+	
+	
+<!-- Marker declarations -->
+	<extension point="org.eclipse.ui.editors.annotationTypes">            
+      <type    
+        	name="org.eclipse.ajdt.changedAdvice"
+			markerType="org.eclipse.ajdt.ui.changedadvicemarker">
+      </type>
+	</extension>
+	<extension point="org.eclipse.ui.editors.markerAnnotationSpecification">	     
+ 		  <specification
+      		annotationType="org.eclipse.ajdt.changedAdvice"
+            	label="%advice"
+            	icon="icons/markers/changedadvice.gif"
+            	textPreferenceKey="adviceIndication"
+            	textPreferenceValue="true"
+            	overviewRulerPreferenceKey="adviceIndicationInOverviewRuler"
+            	overviewRulerPreferenceValue="true"
+            	verticalRulerPreferenceKey="adviceIndicationInVerticalRuler"
+            	verticalRulerPreferenceValue="true"
+            	colorPreferenceKey="adviceIndicationColor"
+            	colorPreferenceValue="222,109,33"
+            	presentationLayer="4">
+ 	     </specification>
+ 		<!--
+ 		<extension point="org.eclipse.ui.editors.annotationTypes">            
+      <type
+      		super="org.eclipse.ajdt.advice"
+      		
+ 		 <specification
+			annotationType="org.eclipse.ajdt.changedAdvice"		
+			icon="icons/markers/changedadvice.gif">
+        </specification>
+        -->
+	</extension>
+
+<!--  org.eclipse.ajdt.ui.advicemarker -->		 
+	<extension 
+   	      id="changedAdviceBackground"
+   	      name="Changed Advice changedAdviceBackground"
+   	      point="org.eclipse.core.resources.markers">
+      <super
+            type="org.eclipse.ajdt.ui.changedadvicemarker">
+      </super>
+      <persistent
+            value="true">
+      </persistent>
+	</extension>
+	<extension point="org.eclipse.ui.editors.annotationTypes">   	   
+      <type    
+      		super="org.eclipse.ajdt.advice"
+        	name="org.eclipse.ajdt.changedAdviceBackground"
+			markerType="xrc.changedAdviceBackground">
+      </type>
+	</extension>
+	<extension point="org.eclipse.ui.editors.markerAnnotationSpecification">		 	
+ 	     <specification
+      		annotationType="org.eclipse.ajdt.changedAdviceBackground"            	
+            	icon="icons/markers/changedadvice.gif"            	
+            	presentationLayer="4">
+ 	     </specification>	
+	</extension>
+	
+	
+	<extension 
+   	      id="changedAdviceAdd"
+   	      name="Changed Advice Addccc"
+   	      point="org.eclipse.core.resources.markers">
+      <super
+            type="org.eclipse.ajdt.ui.changedadvicemarker">
+      </super>
+      <persistent
+            value="true">
+      </persistent>
+	</extension>      
+	<extension point="org.eclipse.ui.editors.annotationTypes">            
+      <type
+      		super="org.eclipse.ajdt.changedAdvice"
+        	name="org.eclipse.ajdt.changedAdviceAdd"
+			markerType="xrc.changedAdviceAdd">
+      </type>
+	</extension>
+	<extension point="org.eclipse.ui.editors.markerAnnotationSpecification">	     
+ 		<specification
+			annotationType="org.eclipse.ajdt.changedAdviceAdd"		
+			icon="icons/markers/add2.ico"
+			presentationLayer="5">
+        </specification>
+	</extension>	
+	
+	<extension 
+   	      id="changedAdviceRemove"
+   	      name="Changed Advice Remove"
+   	      point="org.eclipse.core.resources.markers">
+      <super
+            type="org.eclipse.ajdt.ui.changedadvicemarker">
+      </super>
+      <persistent
+            value="true">
+      </persistent>
+	</extension>
+	<extension point="org.eclipse.ui.editors.annotationTypes">            
+      <type
+      		super="org.eclipse.ajdt.changedAdvice"
+        	name="org.eclipse.ajdt.changedAdviceRemove"
+			markerType="xrc.changedAdviceRemove">
+      </type>
+	</extension>
+	<extension point="org.eclipse.ui.editors.markerAnnotationSpecification">	     
+ 		<specification
+			annotationType="org.eclipse.ajdt.changedAdviceRemove"		
+			icon="icons/markers/remove2.ico"
+			presentationLayer="5">
+        </specification>
+	</extension>
+	
+	
+	<extension 
+   	      id="changedAdviceModified"
+   	      name="Changed Advice Modified"
+   	      point="org.eclipse.core.resources.markers">
+      <super
+            type="org.eclipse.ajdt.ui.changedadvicemarker">
+      </super>
+      <persistent
+            value="true">
+      </persistent>
+	</extension>
+	<extension point="org.eclipse.ui.editors.annotationTypes">            
+      <type
+      		super="org.eclipse.ajdt.changedAdvice"
+        	name="org.eclipse.ajdt.changedAdviceModified"
+			markerType="xrc.changedAdviceModified">
+      </type>
+	</extension>
+	<extension point="org.eclipse.ui.editors.markerAnnotationSpecification">	     
+ 		<specification
+			annotationType="org.eclipse.ajdt.changedAdviceModified"		
+			icon="icons/markers/modified2f.ico"
+			presentationLayer="5">
+        </specification>
+	</extension>
+	
+			
+	
+<!-- AJDT has 2 markers that from some reason are not displayed well when higlighted (as if the highlight override their icon) in the decoreted compare view.
+My solution is to inherit them and use with my spec.
+-->	
+	<extension 
+   	      id="warningWithBackgroundSupport"
+   	      name="Warning Advice warningWithBackgroundSupport"
+   	      point="org.eclipse.core.resources.markers">
+      <super
+            type="org.eclipse.ajdt.ui.warning">            
+      </super>
+      <persistent
+            value="true">
+      </persistent>
+	</extension>
+	<extension point="org.eclipse.ui.editors.annotationTypes">	  	   
+      <type    
+      		super="org.eclipse.ajdt.ui.warning"       		
+        	name="org.eclipse.ajdt.ui.xrc.warning"
+			markerType="xrc.warningWithBackgroundSupport">			
+      </type>
+	</extension>
+	<extension point="org.eclipse.ui.editors.markerAnnotationSpecification">		 	
+ 	     <specification
+      		annotationType="org.eclipse.ajdt.ui.xrc.warning"            	
+            	icon="icons/markers/warning.gif"            	
+            	presentationLayer="5">
+ 	     </specification>	
+	</extension>	
+	
+	<extension 
+   	      id="errorWithBackgroundSupport"
+   	      name="Error Advice errorWithBackgroundSupport"
+   	      point="org.eclipse.core.resources.markers">
+      <super
+            type="org.eclipse.ajdt.ui.error">            
+      </super>
+      <persistent
+            value="true">
+      </persistent>
+	</extension>
+	<extension point="org.eclipse.ui.editors.annotationTypes">	  	   
+      <type    
+      		super="org.eclipse.ajdt.ui.error"       		
+        	name="org.eclipse.ajdt.ui.xrc.error"
+			markerType="xrc.errorWithBackgroundSupport">			
+      </type>
+	</extension>
+	<extension point="org.eclipse.ui.editors.markerAnnotationSpecification">		 	
+ 	     <specification
+      		annotationType="org.eclipse.ajdt.ui.xrc.error"            	
+            	icon="icons/markers/error.gif"            	
+            	presentationLayer="5">
+ 	     </specification>	
+	</extension>	
+	
+	
+	
+	
+	
+<!-- TODO: consider markers multi inheritence   afteradvicemarker-->
+	
+
+	
+<!--	http://webcache.googleusercontent.com/search?q=cache:O4lPNjjIxDwJ:www.eclipse.org/articles/Article-Mark%2520My%2520Words/mark-my-words.html+eclipse+markers+multiple+inheritance&cd=1&hl=iw&ct=clnk&gl=il
+			
+	--> 
+ <!--  
+   	<extension
+	      point="org.eclipse.compare.structureMergeViewers">
+   		<viewer
+			extensions="java"
+			label="AspectJ Structure Compare"
+			class="xrc.api.ide.eclipse.plugin.compare.ui.ajdt.AspectJStructureDiffViewerCreator"
+			id="xrc.api.ide.eclipse.plugin.compare.ui.aj.AspectJStructureDiffViewerCreator">
+   		</viewer>
+-->   	<!-- 	<structureMTypeBinding
+				contentTypeId="org.eclipse.jdt.core.javaSource"
+	            contentMergeViewerId="xrc.temp2.AspectJStructureDiffViewerCreator">
+		</structureMTypeBinding>
+	 --> 
+<!--	</extension>
+ -->
+
+<!--
+  <extension
+         point="org.eclipse.core.filebuffers.annotationModelCreation">
+   <factory
+            contentTypeId="org.eclipse.jdt.core.javaSource"
+            class="org.eclipse.jdt.interna444l.ui.javaeditor.CompilationUnitDocumentProvider4XRC"/>
+   </extension>
+
+	<extension
+         point="org.eclipse.core.runtime.adapters">
+      <factory
+            adaptableType="org.eclipse.team.svn.ui.compare.ResourceCompareInput$ResourceElement"
+            class="org.eclipse.jdt.interna444l.ui.javaeditor.SharedDocumentAdapterFactory">
+         <adapter
+               type="org.eclipse.compare.ISharedDocumentAdapter">
+         -</adapter>
+      </factory>
+   </extension> 
+   -->	
+</plugin>
