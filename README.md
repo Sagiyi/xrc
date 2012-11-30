@@ -15,6 +15,7 @@ The content of the folders is as following:
 Note: The **XRC Standalone Installation** contains Eclipse with the XRC plug-in, as well as AJDT and SVN plug-ins. It is not commited to the github, however it is available on my sites:
 
 [http://www.cslab.openu.ac.il/research/xrc/index.html](http://www.cslab.openu.ac.il/research/xrc/index.html "my XRC site in openu")
+
 [https://sites.google.com/site/sagiifrahresearch/publications](https://sites.google.com/site/sagiifrahresearch/publications "my google site")
 
 ## Quick Start ##
