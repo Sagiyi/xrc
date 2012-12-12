@@ -30,11 +30,11 @@ Note: The **XRC Standalone Installation** contains Eclipse with the XRC plug-in,
 Suppose you develop code using aspects or your code is affected by aspects (else go away :)). You may want to:
 
 - Imporve change control. When modifying an aspect, before check-in, you may want to review all the classes that their  behaviour was modified, and/or mark them automatically in a traceble manner.
-- Discover conflicts easier. When a class functionality is modified by different developers via aspects (and/or on the class itself), you may want to be aware and decide how to handle the conflict before check-in. Without XRC this kind of conflict will be oversight.   
+- Discover conflicts easier. When a class functionality is modified by other developers via aspects (and/or on the class itself), you may want to be aware and decide how to handle the conflict before check-in. Without XRC this kind of conflict will be oversight.   
 - Ease bug investigation. 
 	- you may want to open a previous version of a class or an aspect, and understand its functionality (including functionality that was modified by aspects).
 	- You may want to be able to find which version of an aspect advised your class, or vise versa, on which versioned classes did the aspect affect.
-	- You may want to find the differences in the aspectual effects when comparing two versions of a classes or an aspect.
+	- You may want to find the differences in the aspectual effects when comparing two versions of a class or an aspect.
 - See the whole picture.
 	- You may want to track and understand the evolution of a feature includying the crosscutting effects that may be involved.
 	- You may want to research the behaviour of the system in a previous version includying the crosscutting effects, without checking it out and build it.
